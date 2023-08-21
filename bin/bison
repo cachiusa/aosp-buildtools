@@ -1,4 +1,0 @@
-#!/bin/sh
-export BISON_PKGDATADIR=$(realpath common-bison)
-export M4=m4
-common-bison/bison $*
