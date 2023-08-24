@@ -1,0 +1,1 @@
+../linux-x86/bin/repack_bootimg.py

@@ -1,0 +1,1 @@
+../linux-x86/bin/generate_gki_certificate.py
